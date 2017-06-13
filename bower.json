@@ -4,6 +4,7 @@
   "authors": [
     "YonathanB"
   ],
+  "main": "k-icons.css.css",
   "license": "ISC",
   "ignore": [
     "gitignore"
