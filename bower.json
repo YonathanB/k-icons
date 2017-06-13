@@ -1,0 +1,11 @@
+{
+  "name": "k-icons",
+  "description": "icons for kramer",
+  "authors": [
+    "YonathanB"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "gitignore"
+  ]
+}
