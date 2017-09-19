@@ -834,6 +834,18 @@
 .icon-delete-forever:before {
   content: "\f5e8";
 }
+.icon-eye:before {
+  content: "\f21a";
+}
+.icon-eye-off:before {
+  content: "\f21b";
+}
+.icon-eye-off-outline:before {
+  content: "\f6d0";
+}
+.icon-eye-outline:before {
+  content: "\f6cf";
+}
 .icon-power-plug2:before {
   content: "\f6a6";
 }
