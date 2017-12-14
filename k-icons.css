@@ -24,18 +24,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-edid:before {
-  content: "\e93b";
-}
-.icon-firmware-upgrade:before {
-  content: "\e93c";
-}
-.icon-panel:before {
-  content: "\e93d";
-}
-.icon-network-settings:before {
-  content: "\e93e";
-}
 .icon-tuneling:before {
   content: "\e900";
 }
@@ -78,140 +66,155 @@
 .icon-Microphone_icon:before {
   content: "\e90d";
 }
-.icon-Music_icon:before {
+.icon-image-area:before {
   content: "\e90e";
 }
-.icon-RightArrow_Green_icon:before {
+.icon-Music_icon:before {
   content: "\e90f";
 }
-.icon-RightArrow_White_icon:before {
+.icon-RightArrow_Green_icon:before {
   content: "\e910";
 }
-.icon-Sound_icon:before {
+.icon-RightArrow_White_icon:before {
   content: "\e911";
 }
-.icon-WavesLogo:before {
+.icon-Sound_icon:before {
   content: "\e912";
 }
-.icon-X_Green_icon:before {
+.icon-WavesLogo:before {
   content: "\e913";
 }
-.icon-X_White_icon:before {
+.icon-X_Green_icon:before {
   content: "\e914";
 }
-.icon-LOGO-KRAMER:before {
+.icon-X_White_icon:before {
   content: "\e915";
 }
-.icon-wave:before {
+.icon-LOGO-KRAMER:before {
   content: "\e916";
 }
-.icon-pencil:before {
+.icon-wave:before {
   content: "\e917";
 }
-.icon-headphones:before {
+.icon-pencil:before {
   content: "\e918";
 }
-.icon-music:before {
+.icon-headphones:before {
   content: "\e919";
 }
-.icon-play:before {
+.icon-music:before {
   content: "\e91a";
 }
-.icon-film:before {
+.icon-play:before {
   content: "\e91b";
 }
-.icon-video-camera:before {
+.icon-film:before {
   content: "\e91c";
 }
-.icon-hdcp:before {
+.icon-video-camera:before {
   content: "\e91d";
 }
-.icon-ic_video_signal_on:before {
+.icon-hdcp:before {
   content: "\e91e";
 }
-.icon-connection:before {
+.icon-ic_video_signal_on:before {
   content: "\e91f";
 }
-.icon-maestro-icon:before {
+.icon-connection:before {
   content: "\e920";
 }
-.icon-mic:before {
+.icon-maestro-icon:before {
   content: "\e921";
 }
-.icon-room_schedule:before {
+.icon-mic:before {
   content: "\e922";
 }
-.icon-room_status:before {
+.icon-room_schedule:before {
   content: "\e923";
 }
-.icon-drag:before {
+.icon-room_status:before {
   content: "\e924";
 }
-.icon-file-text:before {
+.icon-drag:before {
   content: "\e925";
 }
-.icon-search:before {
+.icon-file-text:before {
   content: "\e926";
 }
-.icon-audio-follow-video:before {
+.icon-search:before {
   content: "\e927";
 }
-.icon-comm:before {
+.icon-audio-follow-video:before {
   content: "\e928";
 }
-.icon-data:before {
+.icon-comm:before {
   content: "\e929";
 }
-.icon-panel2:before {
+.icon-data:before {
   content: "\e92a";
 }
-.icon-panel_2:before {
+.icon-panel2:before {
   content: "\e92b";
 }
-.icon-time_date:before {
+.icon-panel_2:before {
   content: "\e92c";
 }
-.icon-file-video:before {
+.icon-time_date:before {
   content: "\e92d";
 }
-.icon-video:before {
+.icon-file-video:before {
   content: "\e92e";
 }
-.icon-copy:before {
+.icon-video:before {
   content: "\e92f";
 }
-.icon-curtains_closed:before {
+.icon-copy:before {
   content: "\e930";
 }
-.icon-stack:before {
+.icon-curtains_closed:before {
   content: "\e931";
 }
-.icon-curtains_open:before {
+.icon-stack:before {
   content: "\e932";
 }
-.icon-projector_screen_closed:before {
+.icon-curtains_open:before {
   content: "\e933";
 }
-.icon-projector_screen_open:before {
+.icon-projector_screen_closed:before {
   content: "\e934";
 }
-.icon-screen_four:before {
+.icon-projector_screen_open:before {
   content: "\e935";
 }
-.icon-screen_full:before {
+.icon-screen_four:before {
   content: "\e936";
 }
-.icon-screen_pip:before {
+.icon-screen_full:before {
   content: "\e937";
 }
-.icon-screen_two:before {
+.icon-screen_pip:before {
   content: "\e938";
 }
-.icon-mic_on:before {
+.icon-screen_two:before {
   content: "\e939";
 }
-.icon-drawing:before {
+.icon-mic_on:before {
   content: "\e93a";
+}
+.icon-drawing:before {
+  content: "\e93b";
+}
+.icon-edid:before {
+  content: "\e93c";
+}
+.icon-firmware-upgrade:before {
+  content: "\e93d";
+}
+.icon-panel:before {
+  content: "\e93e";
+}
+.icon-network-settings:before {
+  content: "\e93f";
 }
 .icon-pushpin:before {
   content: "\e946";
@@ -228,7 +231,7 @@
 .icon-keyboard:before {
   content: "\e955";
 }
-.icon-edid2:before {
+.icon-display:before {
   content: "\e956";
 }
 .icon-printer2:before {
@@ -237,7 +240,7 @@
 .icon-keyboard2:before {
   content: "\e958";
 }
-.icon-edid22:before {
+.icon-display2:before {
   content: "\e959";
 }
 .icon-tablet:before {
@@ -566,6 +569,9 @@
 }
 .icon-alarm-plus:before {
   content: "\f025";
+}
+.icon-alphabetical:before {
+  content: "\f02c";
 }
 .icon-video-camera2:before {
   content: "\f03d";
@@ -1073,4 +1079,7 @@
 }
 .icon-folder-open2:before {
   content: "\f76f";
+}
+.icon-cta:before {
+  content: "\e940";
 }
