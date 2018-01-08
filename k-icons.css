@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-icon-panel:before {
+  content: "\e93e";
+}
 .icon-tuneling:before {
   content: "\e900";
 }
@@ -209,9 +212,6 @@
 }
 .icon-firmware-upgrade:before {
   content: "\e93d";
-}
-.icon-panel:before {
-  content: "\e93e";
 }
 .icon-network-settings:before {
   content: "\e93f";
@@ -1079,6 +1079,9 @@
 }
 .icon-folder-open2:before {
   content: "\f76f";
+}
+.icon-maestro-panel-icon:before {
+  content: "\e941";
 }
 .icon-cta:before {
   content: "\e940";
