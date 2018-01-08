@@ -24,6 +24,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-configuration:before {
+  content: "\e943";
+}
+.icon-general-info:before {
+  content: "\e944";
+}
+.icon-recording:before {
+  content: "\e945";
+}
+.icon-streaming:before {
+  content: "\e947";
+}
 .icon-icon-panel:before {
   content: "\e93e";
 }
@@ -1082,6 +1094,9 @@
 }
 .icon-maestro-panel-icon:before {
   content: "\e941";
+}
+.icon-panel:before {
+  content: "\e942";
 }
 .icon-cta:before {
   content: "\e940";
