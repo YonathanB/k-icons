@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?8gg3r8');
-  src:  url('fonts/icomoon.eot?8gg3r8#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?8gg3r8') format('truetype'),
-    url('fonts/icomoon.woff?8gg3r8') format('woff'),
-    url('fonts/icomoon.svg?8gg3r8#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?jfdpd5');
+  src:  url('fonts/icomoon.eot?jfdpd5#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?jfdpd5') format('truetype'),
+    url('fonts/icomoon.woff?jfdpd5') format('woff'),
+    url('fonts/icomoon.svg?jfdpd5#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,26 +24,44 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-ic_audio_over_ip:before {
-  content: "\e94f";
+.icon-ic_V:before {
+  content: "\e96c";
 }
-.icon-ic_drag_drop:before {
-  content: "\e950";
+.icon-ic_X:before {
+  content: "\e96d";
 }
-.icon-ic_folder:before {
-  content: "\e951";
+.icon-ic_audio_over_ip2:before {
+  content: "\e964";
 }
-.icon-ic_scan:before {
-  content: "\e952";
+.icon-ic_drag_drop2:before {
+  content: "\e965";
 }
-.icon-ic_video:before {
-  content: "\e961";
+.icon-ic_folder2:before {
+  content: "\e966";
 }
-.icon-ic_video_over_ip:before {
-  content: "\e962";
+.icon-ic_scan2:before {
+  content: "\e967";
 }
-.icon-ic_video_wall:before {
-  content: "\e963";
+.icon-ic_video2:before {
+  content: "\e968";
+}
+.icon-ic_video_over_ip2:before {
+  content: "\e96a";
+}
+.icon-ic_video_wall2:before {
+  content: "\e96b";
+}
+.icon-hdmi:before {
+  content: "\e94d";
+}
+.icon-streaming:before {
+  content: "\e947";
+}
+.icon-encoding-1:before {
+  content: "\e94c";
+}
+.icon-cta:before {
+  content: "\e940";
 }
 .icon-encoding:before {
   content: "\e94b";
@@ -1127,37 +1145,4 @@
 }
 .icon-panel:before {
   content: "\e942";
-}
-.icon-ic_audio_over_ip2:before {
-  content: "\e964";
-}
-.icon-ic_drag_drop2:before {
-  content: "\e965";
-}
-.icon-ic_folder2:before {
-  content: "\e966";
-}
-.icon-ic_scan2:before {
-  content: "\e967";
-}
-.icon-ic_video2:before {
-  content: "\e968";
-}
-.icon-ic_video_over_ip2:before {
-  content: "\e96a";
-}
-.icon-ic_video_wall2:before {
-  content: "\e96b";
-}
-.icon-hdmi:before {
-  content: "\e94d";
-}
-.icon-streaming:before {
-  content: "\e947";
-}
-.icon-encoding-1:before {
-  content: "\e94c";
-}
-.icon-cta:before {
-  content: "\e940";
 }
