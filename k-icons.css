@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?c3bydv');
-  src:  url('fonts/icomoon.eot?c3bydv#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?c3bydv') format('truetype'),
-    url('fonts/icomoon.woff?c3bydv') format('woff'),
-    url('fonts/icomoon.svg?c3bydv#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?xgudye');
+  src:  url('fonts/icomoon.eot?xgudye#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?xgudye') format('truetype'),
+    url('fonts/icomoon.woff?xgudye') format('woff'),
+    url('fonts/icomoon.svg?xgudye#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -1196,31 +1196,4 @@
 }
 .icon-panel:before {
   content: "\e942";
-}
-.icon-rec:before {
-  content: "\e986";
-}
-.icon-rec_sc:before {
-  content: "\e98b";
-}
-.icon-ic_audio_over_ip:before {
-  content: "\e97e";
-}
-.icon-ic_drag_drop:before {
-  content: "\e97f";
-}
-.icon-ic_folder:before {
-  content: "\e980";
-}
-.icon-ic_scan:before {
-  content: "\e982";
-}
-.icon-ic_video:before {
-  content: "\e983";
-}
-.icon-ic_video_over_ip:before {
-  content: "\e984";
-}
-.icon-ic_video_wall2:before {
-  content: "\e985";
 }
