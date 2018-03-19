@@ -24,6 +24,33 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ic_add:before {
+  content: "\e97a";
+}
+.icon-ic_md:before {
+  content: "\e97b";
+}
+.icon-ic_menu_dots:before {
+  content: "\e97c";
+}
+.icon-ic_warning:before {
+  content: "\e96b";
+}
+.icon-ic_video_wall:before {
+  content: "\e977";
+}
+.icon-ic_vw_rw:before {
+  content: "\e978";
+}
+.icon-ic_warning_yellow:before {
+  content: "\e979";
+}
+.icon-ic_eraser:before {
+  content: "\e976";
+}
+.icon-ic_vw_custom:before {
+  content: "\e970";
+}
 .icon-ic_vw_2x2:before {
   content: "\e94f";
 }
@@ -74,9 +101,6 @@
 }
 .icon-ic_video_over_ip2:before {
   content: "\e96a";
-}
-.icon-ic_video_wall2:before {
-  content: "\e96b";
 }
 .icon-hdmi:before {
   content: "\e94d";
@@ -1172,4 +1196,31 @@
 }
 .icon-panel:before {
   content: "\e942";
+}
+.icon-rec:before {
+  content: "\e986";
+}
+.icon-rec_sc:before {
+  content: "\e98b";
+}
+.icon-ic_audio_over_ip:before {
+  content: "\e97e";
+}
+.icon-ic_drag_drop:before {
+  content: "\e97f";
+}
+.icon-ic_folder:before {
+  content: "\e980";
+}
+.icon-ic_scan:before {
+  content: "\e982";
+}
+.icon-ic_video:before {
+  content: "\e983";
+}
+.icon-ic_video_over_ip:before {
+  content: "\e984";
+}
+.icon-ic_video_wall2:before {
+  content: "\e985";
 }
