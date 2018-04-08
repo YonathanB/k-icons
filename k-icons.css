@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ic_exp_less:before {
+  content: "\e98c";
+}
+.icon-ic_exp_more:before {
+  content: "\e98e";
+}
 .icon-ic_add:before {
   content: "\e97a";
 }
