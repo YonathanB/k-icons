@@ -1230,3 +1230,364 @@
 .icon-ic_video_wall2:before {
   content: "\e985";
 }
+.icon-ic_3_colors .path1:before {
+  content: "\e996";
+  color: rgb(255, 47, 34);
+}
+.icon-ic_3_colors .path2:before {
+  content: "\e998";
+  margin-left: -2.3759765625em;
+  color: rgb(0, 184, 241);
+}
+.icon-ic_3_colors .path3:before {
+  content: "\e999";
+  margin-left: -2.3759765625em;
+  color: rgb(196, 196, 198);
+}
+.icon-ic_loading .path1:before {
+  content: "\e99a";
+  color: rgb(3, 155, 229);
+}
+.icon-ic_loading .path2:before {
+  content: "\e99b";
+  margin-left: -1em;
+  color: rgb(3, 155, 229);
+  opacity: 0.9;
+}
+.icon-ic_loading .path3:before {
+  content: "\e99c";
+  margin-left: -1em;
+  color: rgb(3, 155, 229);
+  opacity: 0.8;
+}
+.icon-ic_loading .path4:before {
+  content: "\e99d";
+  margin-left: -1em;
+  color: rgb(3, 155, 229);
+  opacity: 0.7;
+}
+.icon-ic_loading .path5:before {
+  content: "\e99e";
+  margin-left: -1em;
+  color: rgb(3, 155, 229);
+  opacity: 0.6;
+}
+.icon-ic_loading .path6:before {
+  content: "\e99f";
+  margin-left: -1em;
+  color: rgb(3, 155, 229);
+  opacity: 0.5;
+}
+.icon-ic_loading .path7:before {
+  content: "\e9a0";
+  margin-left: -1em;
+  color: rgb(3, 155, 229);
+  opacity: 0.4;
+}
+.icon-ic_loading .path8:before {
+  content: "\e9a1";
+  margin-left: -1em;
+  color: rgb(3, 155, 229);
+  opacity: 0.3;
+}
+.icon-ic_loading .path9:before {
+  content: "\e9a2";
+  margin-left: -1em;
+  color: rgb(3, 155, 229);
+  opacity: 0.2;
+}
+.icon-ic_loading .path10:before {
+  content: "\e9a3";
+  margin-left: -1em;
+  color: rgb(3, 155, 229);
+  opacity: 0.1;
+}
+.icon-logo_KN_one_line_grey:before {
+  content: "\e9a4";
+  color: #4d4d4f;
+}
+.icon-logo_KN_one_line_white:before {
+  content: "\e9a5";
+  color: #fff;
+}
+.icon-logo_KN_two_line_grey .path1:before {
+  content: "\e9a7";
+  color: rgb(0, 162, 229);
+}
+.icon-logo_KN_two_line_grey .path2:before {
+  content: "\e9a8";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path3:before {
+  content: "\e9a9";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path4:before {
+  content: "\e9aa";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path5:before {
+  content: "\e9ab";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path6:before {
+  content: "\e9ac";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path7:before {
+  content: "\e9ad";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path8:before {
+  content: "\e9ae";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path9:before {
+  content: "\e9af";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path10:before {
+  content: "\e9b0";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path11:before {
+  content: "\e9b1";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path12:before {
+  content: "\e9b2";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path13:before {
+  content: "\e9b3";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path14:before {
+  content: "\e9b4";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path15:before {
+  content: "\e9b5";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path16:before {
+  content: "\e9b6";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path17:before {
+  content: "\e9b7";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path18:before {
+  content: "\e9b8";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path19:before {
+  content: "\e9b9";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_grey .path20:before {
+  content: "\e9ba";
+  margin-left: -2.6103515625em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_KN_two_line_white:before {
+  content: "\e9bd";
+  color: #fff;
+}
+.icon-logo_kramer_and_av_grey .path1:before {
+  content: "\e9be";
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path2:before {
+  content: "\e9bf";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path3:before {
+  content: "\e9c0";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path4:before {
+  content: "\e9c1";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path5:before {
+  content: "\e9c2";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path6:before {
+  content: "\e9c6";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path7:before {
+  content: "\e9c7";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path8:before {
+  content: "\e9c8";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path9:before {
+  content: "\e9ca";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path10:before {
+  content: "\e9cb";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path11:before {
+  content: "\e9cc";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path12:before {
+  content: "\e9cd";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path13:before {
+  content: "\e9ce";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path14:before {
+  content: "\e9cf";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path15:before {
+  content: "\e9d0";
+  margin-left: -3.3154296875em;
+  color: rgb(77, 77, 79);
+}
+.icon-logo_kramer_and_av_grey .path16:before {
+  content: "\e9d1";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 47, 34);
+}
+.icon-logo_kramer_and_av_grey .path17:before {
+  content: "\e9d2";
+  margin-left: -3.3154296875em;
+  color: rgb(0, 184, 241);
+}
+.icon-logo_kramer_and_av_grey .path18:before {
+  content: "\e9d3";
+  margin-left: -3.3154296875em;
+  color: rgb(196, 196, 198);
+}
+.icon-logo_kramer_and_av_white .path1:before {
+  content: "\e9d4";
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path2:before {
+  content: "\e9d5";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path3:before {
+  content: "\e9d6";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path4:before {
+  content: "\e9d7";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path5:before {
+  content: "\e9d8";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path6:before {
+  content: "\e9d9";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path7:before {
+  content: "\e9da";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path8:before {
+  content: "\e9db";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path9:before {
+  content: "\e9dc";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path10:before {
+  content: "\e9dd";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path11:before {
+  content: "\e9de";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path12:before {
+  content: "\e9df";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path13:before {
+  content: "\e9e0";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path14:before {
+  content: "\e9e1";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path15:before {
+  content: "\e9e2";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-logo_kramer_and_av_white .path16:before {
+  content: "\e9e3";
+  margin-left: -3.3154296875em;
+  color: rgb(255, 47, 34);
+}
+.icon-logo_kramer_and_av_white .path17:before {
+  content: "\e9e4";
+  margin-left: -3.3154296875em;
+  color: rgb(0, 184, 241);
+}
+.icon-logo_kramer_and_av_white .path18:before {
+  content: "\e9e5";
+  margin-left: -3.3154296875em;
+  color: rgb(196, 196, 198);
+}
