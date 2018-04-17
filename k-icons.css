@@ -24,101 +24,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-ic_exp_less:before {
-  content: "\e98c";
+.icon-logo_KN_one_line_grey:before {
+  content: "\e996";
+  color: #4d4d4f;
 }
-.icon-ic_exp_more:before {
-  content: "\e98e";
-}
-.icon-ic_add:before {
-  content: "\e97a";
-}
-.icon-ic_md:before {
-  content: "\e97b";
-}
-.icon-ic_menu_dots:before {
-  content: "\e97c";
-}
-.icon-ic_warning:before {
-  content: "\e96b";
-}
-.icon-ic_video_wall:before {
-  content: "\e977";
-}
-.icon-ic_vw_rw:before {
-  content: "\e978";
-}
-.icon-ic_warning_yellow:before {
-  content: "\e979";
-}
-.icon-ic_eraser:before {
-  content: "\e976";
-}
-.icon-ic_vw_custom:before {
-  content: "\e970";
-}
-.icon-ic_vw_2x2:before {
-  content: "\e94f";
-}
-.icon-ic_vw_2x3:before {
-  content: "\e950";
-}
-.icon-ic_vw_2x4:before {
-  content: "\e951";
-}
-.icon-ic_vw_3x2:before {
-  content: "\e952";
-}
-.icon-ic_vw_3x3:before {
-  content: "\e961";
-}
-.icon-ic_vw_3x4:before {
-  content: "\e962";
-}
-.icon-ic_vw_4x2:before {
-  content: "\e963";
-}
-.icon-ic_vw_4x3:before {
-  content: "\e96e";
-}
-.icon-ic_vw_4x4:before {
-  content: "\e96f";
-}
-.icon-ic_V:before {
-  content: "\e96c";
-}
-.icon-ic_X:before {
-  content: "\e96d";
-}
-.icon-ic_audio_over_ip2:before {
-  content: "\e964";
-}
-.icon-ic_drag_drop2:before {
-  content: "\e965";
-}
-.icon-ic_folder2:before {
-  content: "\e966";
-}
-.icon-ic_scan2:before {
-  content: "\e967";
-}
-.icon-ic_video2:before {
-  content: "\e968";
-}
-.icon-ic_video_over_ip2:before {
-  content: "\e96a";
-}
-.icon-hdmi:before {
-  content: "\e94d";
-}
-.icon-streaming:before {
-  content: "\e947";
-}
-.icon-encoding-1:before {
-  content: "\e94c";
-}
-.icon-cta:before {
-  content: "\e940";
+.icon-logo_KN_one_line_white:before {
+  content: "\e998";
+  color: #fff;
 }
 .icon-encoding:before {
   content: "\e94b";
@@ -1231,84 +1143,76 @@
   content: "\e985";
 }
 .icon-ic_3_colors .path1:before {
-  content: "\e996";
+  content: "\e999";
   color: rgb(255, 47, 34);
 }
 .icon-ic_3_colors .path2:before {
-  content: "\e998";
+  content: "\e99a";
   margin-left: -2.3759765625em;
   color: rgb(0, 184, 241);
 }
 .icon-ic_3_colors .path3:before {
-  content: "\e999";
+  content: "\e99b";
   margin-left: -2.3759765625em;
   color: rgb(196, 196, 198);
 }
 .icon-ic_loading .path1:before {
-  content: "\e99a";
+  content: "\e99c";
   color: rgb(3, 155, 229);
 }
 .icon-ic_loading .path2:before {
-  content: "\e99b";
+  content: "\e99d";
   margin-left: -1em;
   color: rgb(3, 155, 229);
   opacity: 0.9;
 }
 .icon-ic_loading .path3:before {
-  content: "\e99c";
+  content: "\e99e";
   margin-left: -1em;
   color: rgb(3, 155, 229);
   opacity: 0.8;
 }
 .icon-ic_loading .path4:before {
-  content: "\e99d";
+  content: "\e99f";
   margin-left: -1em;
   color: rgb(3, 155, 229);
   opacity: 0.7;
 }
 .icon-ic_loading .path5:before {
-  content: "\e99e";
+  content: "\e9a0";
   margin-left: -1em;
   color: rgb(3, 155, 229);
   opacity: 0.6;
 }
 .icon-ic_loading .path6:before {
-  content: "\e99f";
+  content: "\e9a1";
   margin-left: -1em;
   color: rgb(3, 155, 229);
   opacity: 0.5;
 }
 .icon-ic_loading .path7:before {
-  content: "\e9a0";
+  content: "\e9a2";
   margin-left: -1em;
   color: rgb(3, 155, 229);
   opacity: 0.4;
 }
 .icon-ic_loading .path8:before {
-  content: "\e9a1";
+  content: "\e9a3";
   margin-left: -1em;
   color: rgb(3, 155, 229);
   opacity: 0.3;
 }
 .icon-ic_loading .path9:before {
-  content: "\e9a2";
+  content: "\e9a4";
   margin-left: -1em;
   color: rgb(3, 155, 229);
   opacity: 0.2;
 }
 .icon-ic_loading .path10:before {
-  content: "\e9a3";
+  content: "\e9a5";
   margin-left: -1em;
   color: rgb(3, 155, 229);
   opacity: 0.1;
-}
-.icon-logo_KN_one_line_grey:before {
-  content: "\e9a4";
-  color: #4d4d4f;
-}
-.icon-logo_KN_one_line_white:before {
-  content: "\e9a5";
-  color: #fff;
 }
 .icon-logo_KN_two_line_grey .path1:before {
   content: "\e9a7";
@@ -1590,4 +1494,100 @@
   content: "\e9e5";
   margin-left: -3.3154296875em;
   color: rgb(196, 196, 198);
+}
+.icon-ic_exp_less:before {
+  content: "\e98c";
+}
+.icon-ic_exp_more:before {
+  content: "\e98e";
+}
+.icon-ic_add:before {
+  content: "\e97a";
+}
+.icon-ic_md:before {
+  content: "\e97b";
+}
+.icon-ic_menu_dots:before {
+  content: "\e97c";
+}
+.icon-ic_warning:before {
+  content: "\e96b";
+}
+.icon-ic_video_wall:before {
+  content: "\e977";
+}
+.icon-ic_vw_rw:before {
+  content: "\e978";
+}
+.icon-ic_warning_yellow:before {
+  content: "\e979";
+}
+.icon-ic_eraser:before {
+  content: "\e976";
+}
+.icon-ic_vw_custom:before {
+  content: "\e970";
+}
+.icon-ic_vw_2x2:before {
+  content: "\e94f";
+}
+.icon-ic_vw_2x3:before {
+  content: "\e950";
+}
+.icon-ic_vw_2x4:before {
+  content: "\e951";
+}
+.icon-ic_vw_3x2:before {
+  content: "\e952";
+}
+.icon-ic_vw_3x3:before {
+  content: "\e961";
+}
+.icon-ic_vw_3x4:before {
+  content: "\e962";
+}
+.icon-ic_vw_4x2:before {
+  content: "\e963";
+}
+.icon-ic_vw_4x3:before {
+  content: "\e96e";
+}
+.icon-ic_vw_4x4:before {
+  content: "\e96f";
+}
+.icon-ic_V:before {
+  content: "\e96c";
+}
+.icon-ic_X:before {
+  content: "\e96d";
+}
+.icon-ic_audio_over_ip2:before {
+  content: "\e964";
+}
+.icon-ic_drag_drop2:before {
+  content: "\e965";
+}
+.icon-ic_folder2:before {
+  content: "\e966";
+}
+.icon-ic_scan2:before {
+  content: "\e967";
+}
+.icon-ic_video2:before {
+  content: "\e968";
+}
+.icon-ic_video_over_ip2:before {
+  content: "\e96a";
+}
+.icon-hdmi:before {
+  content: "\e94d";
+}
+.icon-streaming:before {
+  content: "\e947";
+}
+.icon-encoding-1:before {
+  content: "\e94c";
+}
+.icon-cta:before {
+  content: "\e940";
 }
