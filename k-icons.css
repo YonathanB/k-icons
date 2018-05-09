@@ -24,6 +24,33 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ic_add_box:before {
+  content: "\e917";
+}
+.icon-ic_add_circle_outline:before {
+  content: "\e918";
+}
+.icon-ic_arrow_drop_down:before {
+  content: "\e919";
+}
+.icon-ic_clone:before {
+  content: "\e91a";
+}
+.icon-ic_delete:before {
+  content: "\e91b";
+}
+.icon-ic_pause:before {
+  content: "\e91c";
+}
+.icon-ic_plus:before {
+  content: "\e91d";
+}
+.icon-ic_save:before {
+  content: "\e91e";
+}
+.icon-ic_stop:before {
+  content: "\e91f";
+}
 .icon-logo_KN_one_line_grey:before {
   content: "\e9f6";
   color: #4d4d4f;
