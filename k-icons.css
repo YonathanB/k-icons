@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ic_exclamation:before {
+  content: "\e920";
+}
 .icon-ic_add_box:before {
   content: "\e917";
 }
