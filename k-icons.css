@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ic_hourglass:before {
+  content: "\e923";
+}
 .icon-ic_scan_list:before {
   content: "\e921";
 }
