@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ic_file:before {
+    content: "\e927";
+}
 .icon-ic_minus:before {
     content: "\e926";
 }
