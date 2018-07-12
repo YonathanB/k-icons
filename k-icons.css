@@ -24,6 +24,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+.icon-ic_connect_dis:before {
+    content: "\e928";
+}
 .icon-ic_file:before {
     content: "\e927";
 }
