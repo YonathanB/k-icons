@@ -24,7 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-
+.icon-ic_upload_file:before {
+    content: "\e929";
+}
 .icon-ic_connect_dis:before {
     content: "\e928";
 }
