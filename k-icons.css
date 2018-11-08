@@ -24,6 +24,49 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+.icon-ic_about:before {
+    content: "\e92a";
+}
+.icon-ic_administration:before {
+    content: "\e92b";
+}
+.icon-ic_devices:before {
+    content: "\e92c";
+}
+.icon-ic_explore:before {
+    content: "\e92d";
+}
+.icon-ic_fw:before {
+    content: "\e92e";
+}
+.icon-ic_fw_up:before {
+    content: "\e92f";
+}
+.icon-ic_location:before {
+    content: "\e930";
+}
+.icon-ic_managment:before {
+    content: "\e931";
+}
+.icon-ic_notification:before {
+    content: "\e932";
+}
+.icon-ic_pie_chart:before {
+    content: "\e933";
+}
+.icon-ic_reports:before {
+    content: "\e934";
+}
+.icon-ic_room:before {
+    content: "\e935";
+}
+.icon-ic_sys_config:before {
+    content: "\e936";
+}
+.icon-ic_user_info:before {
+    content: "\e937";
+}
 .icon-ic_upload_file:before {
     content: "\e929";
 }
