@@ -25,11 +25,17 @@
 }
 
 
+.icon-ic_brain:before {
+    content: "\e938";
+}
 .icon-ic_about:before {
     content: "\e92a";
 }
 .icon-ic_administration:before {
     content: "\e92b";
+}
+.icon-ic_dashboard:before {
+    content: "\e939";
 }
 .icon-ic_devices:before {
     content: "\e92c";
@@ -42,6 +48,9 @@
 }
 .icon-ic_fw_up:before {
     content: "\e92f";
+}
+.icon-ic_license:before {
+    content: "\e93a";
 }
 .icon-ic_location:before {
     content: "\e930";
