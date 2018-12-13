@@ -25,6 +25,27 @@
 }
 
 
+.icon-ic_dashboard_set:before {
+    content: "\e93b";
+}
+.icon-ic_macro_list:before {
+    content: "\e93c";
+}
+.icon-ic_macro_list_execute:before {
+    content: "\e93d";
+}
+.icon-ic_overlay:before {
+    content: "\e93e";
+}
+.icon-ic_remote_room:before {
+    content: "\e93f";
+}
+.icon-ic_room_occup:before {
+    content: "\e940";
+}
+.icon-ic_web_page:before {
+    content: "\e941";
+}
 .icon-ic_brain:before {
     content: "\e938";
 }
@@ -57,6 +78,9 @@
 }
 .icon-ic_managment:before {
     content: "\e931";
+}
+.icon-ic_menu:before {
+    content: "\e942";
 }
 .icon-ic_notification:before {
     content: "\e932";
