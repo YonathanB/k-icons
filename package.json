@@ -1,6 +1,6 @@
 {
   "name": "k-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.",
   "main": "k-icon.css",
   "scripts": {
