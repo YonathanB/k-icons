@@ -25,6 +25,34 @@
 }
 
 
+
+.icon-ic_arrow_down:before {
+    content: "\ea58";
+}
+.icon-ic_arrow_up:before {
+    content: "\ea5a";
+}
+.icon-ic_over_image_layer:before {
+    content: "\e94e";
+}
+.icon-ic_over_image_upload:before {
+    content: "\e94f";
+}
+.icon-ic_over_pr_basic:before {
+    content: "\e950";
+}
+.icon-ic_over_pr_tr:before {
+    content: "\e951";
+}
+.icon-ic_over_pr_video:before {
+    content: "\ea55";
+}
+.icon-ic_over_text_color:before {
+    content: "\ea56";
+}
+.icon-ic_over_text_layer:before {
+    content: "\ea57";
+}
 .icon-ic_over_image_layer1:before {
     content: "\e947";
 }
@@ -1774,25 +1802,4 @@
 }
 .icon-folder-open2:before {
     content: "\f76f";
-}
-.icon-ic_over_image_layer:before {
-    content: "\e94e";
-}
-.icon-ic_over_image_upload:before {
-    content: "\e94f";
-}
-.icon-ic_over_pr_basic:before {
-    content: "\e950";
-}
-.icon-ic_over_pr_tr:before {
-    content: "\e951";
-}
-.icon-ic_over_pr_video:before {
-    content: "\ea55";
-}
-.icon-ic_over_text_color:before {
-    content: "\ea56";
-}
-.icon-ic_over_text_layer:before {
-    content: "\ea57";
 }
