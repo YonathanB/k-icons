@@ -24,8 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-
-
+.icon-pencil:before {
+    content: "\e254";
+}
 .icon-ic_arrow_down:before {
     content: "\ea58";
 }
@@ -665,9 +666,6 @@
 }
 .icon-wave:before {
     content: "\e96d";
-}
-.icon-pencil:before {
-    content: "\e96e";
 }
 .icon-headphones:before {
     content: "\e96f";
