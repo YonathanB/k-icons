@@ -24,6 +24,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-V_Icon-2:before {
+    content: "\e96e";
+}
+.icon-ClosedLinkIcon:before {
+    content: "\ea5b";
+}
+.icon-InvertIcon:before {
+    content: "\ea5c";
+}
+.icon-LineIcon:before {
+    content: "\ea5d";
+}
+.icon-MicIcon:before {
+    content: "\ea5e";
+}
+.icon-MuteIcon:before {
+    content: "\ea5f";
+}
+.icon-OpenLinkIcon:before {
+    content: "\ea60";
+}
+.icon-SoloIcon:before {
+    content: "\ea61";
+}
 .icon-pencil:before {
     content: "\e254";
 }
